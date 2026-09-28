@@ -3,6 +3,18 @@
     <channel>
         <title>VCR</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Mon, 28 Sep 2026 18:11:05 -0400</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/bobvonscio/vcr-releases/main/VCR-0.3.0.dmg" length="3068374" type="application/octet-stream" sparkle:edSignature="aeHbjoBTBqUrKJCyGEbO6sNLBJNowYE2+I+fjNCCeusbd9GGG2gx0RK6IcqumJ8hX2hTfJcnJWUsf+jsO06zDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/bobvonscio/vcr-releases/main/VCR3-2.delta" sparkle:deltaFrom="2" length="226026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RCet5qSK4mwAEOIsLiB9DRmjZlZNZ8l3IY4H3EgQOve1nUW2NDKmZVVgggcnZt6BqA6oR9F0wzj7B8dsMTlzDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Sat, 26 Sep 2026 21:07:13 -0400</pubDate>
             <sparkle:version>2</sparkle:version>
