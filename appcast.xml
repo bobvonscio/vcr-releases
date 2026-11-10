@@ -3,6 +3,22 @@
     <channel>
         <title>VCR</title>
         <item>
+            <title>0.3.4</title>
+            <pubDate>Tue, 10 Nov 2026 09:37:45 -0500</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/bobvonscio/vcr-releases/main/VCR-0.3.4.dmg" length="3276495" type="application/octet-stream" sparkle:edSignature="4yfzksh+Hji35ZmiVlqCB6kM16guW6v2KnGsTIarfSjcyRV8n/d4kg3WB0gqE/TCq/bhBdmzeoXJj4un8c8OAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/bobvonscio/vcr-releases/main/VCR7-6.delta" sparkle:deltaFrom="6" length="313346" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sWGFNY6y65c6620MGb1TzXLsgKMkC4B/Jz8bLayxJ0+I3LWSfWQ0iO/Xg+loxgsJPu01TBrI6Bi88TRBX4flDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/bobvonscio/vcr-releases/main/VCR7-5.delta" sparkle:deltaFrom="5" length="359090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HKo7uLms31/iIC0206J8DFuBJ8SMsqeKXoJ0VlezBTXwCNmoZru+0pcDGrDTsJnHwVDPb4/x2nKGVjX1ULSPDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/bobvonscio/vcr-releases/main/VCR7-4.delta" sparkle:deltaFrom="4" length="361694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eYXDs9FbJYFIEFUnDp1iwOMwKLJeDtcDx7ByZUsg2jOejnG2oFReY7cM9keuZIBFCrG6lRrkaOLmVihLEMskDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/bobvonscio/vcr-releases/main/VCR7-3.delta" sparkle:deltaFrom="3" length="417814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bB+65HaY+7ylvdlaUTuqXq2jXQpdM+YvNbUdJRHblyL/MaYbn1gpkVkUq/xAfwfYEONc9VMr5BsknJD7RMlwCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/bobvonscio/vcr-releases/main/VCR7-2.delta" sparkle:deltaFrom="2" length="490458" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DLab8HeYcCxOJjzRjbxdgZ6/qJa/ZxnqRjkntfG6NMDbfCVlWpbDWO2PcBomVdi3ZymmDmslFDzIByBolJtGAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.3</title>
             <pubDate>Fri, 23 Oct 2026 12:32:28 -0400</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -29,19 +45,6 @@
                 <enclosure url="https://raw.githubusercontent.com/bobvonscio/vcr-releases/main/VCR5-4.delta" sparkle:deltaFrom="4" length="95734" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jEArjUvl3SX4J+STN2UxSpgirKgIaDoPYpTxrBNMH6WMcogGnIswpmFRtsf4NXUtRcCqsApK8+oNx/y0b2pYBg=="/>
                 <enclosure url="https://raw.githubusercontent.com/bobvonscio/vcr-releases/main/VCR5-3.delta" sparkle:deltaFrom="3" length="198226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tFi3PT4u0fqCWwTZfql/oco+ibcIbHjB3OPVfvTiqJRwViI6JOsUerBX3TtGtcsEfoaNoR4kJpclKSUdwkzEDQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/bobvonscio/vcr-releases/main/VCR5-2.delta" sparkle:deltaFrom="2" length="298254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bqPWOciU12CC6OFmZKOOFpdsBGSwEGfdeH9MLv+UgufV+iMqygc/1zlf7LCfaxQZjg4xYBv2H+WfPqr3wJ2HDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.1</title>
-            <pubDate>Fri, 09 Oct 2026 17:01:19 -0400</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/bobvonscio/vcr-releases/main/VCR-0.3.1.dmg" length="3088463" type="application/octet-stream" sparkle:edSignature="KPXUKaXLN8gWtzeDZCq4YKVRUJ/+dgZMp0hc6hz77L5hN17wyUb0TROVFPgeyEvIZMPD/nGEqSCgCdqYhheDAg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/bobvonscio/vcr-releases/main/VCR4-3.delta" sparkle:deltaFrom="3" length="183850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oVgjlxiHWCGAgP3GC5/hF1943iU7VUkNFQ7/xTq1t6LxF5626kezWTy6W/vtcx7JURXYv/ioSruS6r59rJTtAA=="/>
-                <enclosure url="https://raw.githubusercontent.com/bobvonscio/vcr-releases/main/VCR4-2.delta" sparkle:deltaFrom="2" length="289918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HaA1KOAcSEe9piwElrsY8yxd35H0CAdnlUeuEEfA6lwbdJABSb+8xnA/XQVxlriLPe93rHUUIl5jd9CqhqIdDQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
